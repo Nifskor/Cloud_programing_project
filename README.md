@@ -34,7 +34,7 @@
 - 최인수 [Nifskor] <a href="https://github.com/Nifskor" target="GitHub"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/></a>
 - 조진혁 [Mina-1316] <a href="https://github.com/Mina-1316" target="GitHub"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
-## 프로젝트를 수행하면서 느낀점 (회고록)
+## 프로젝트를 수행하면서 느낀점 (Nifskor) (회고록)
 
 > 1. 프로젝트수행 기간이 짧아 급하게 완성하였다는 느낌이있다.
 > 2. 프론트에서 Html,Css 디자인만 너무 신경을 쓰다보니 백엔드 - 프론트 연결점 JavaScript에 대해 신경쓰지못해 시간이 다소 많이 소요되었다.
@@ -42,13 +42,13 @@
 > 4. 사이트 내부에 연결 링크가 자체 로컬 기준이아닌 웹 사이트 기준 링크가 다수포함되어 서비스 안전성이 떨어진다. 
 > 5. 기능을 완전히 다 구현하지 못해 다소 아쉬움이 남는 프로젝트였다. 
 
-## 향후 개선및 진행 방향 
+## 향후 개선및 진행 방향 (Nifskor) (회고록)
 > 1. 일정으로 인해 당장으 어렵지만 점진적으로 가능하다면 해당 프로젝트를 장고 -> 스프링으로 마이그레이셔 할계획이다. 
 > 2. 불필요 코드르 제거하고 사이트 로딩속도를 개선한다.
 > 3. 보안을 높이고  최적화한다. 
 > 4. 프론트와 백엔드르 동시에 수행해보며 백엔드에 대해 이해도를 높혀본다.
 
-## 팀원들에게 한마디 
+## 팀원들에게 한마디 (Nifskor) (회고록)
 > 1. 정말 고생많았고 향후 위 내용처러 같이 개선해보자! 화이팅! 
 
 
